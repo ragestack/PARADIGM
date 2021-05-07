@@ -1,4 +1,4 @@
-# PARADIGM | The Up-level SCADA
+# PARADIGM | The point of SCADA
 
 **Программно-технический комплекс «Парадигма» (ПТК «Парадигма»).**
 
