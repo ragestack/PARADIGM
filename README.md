@@ -1,4 +1,4 @@
-# PARADIGM | The point of SCADA
+# PARADIGM | The zero-point of SCADA
 
 **Программно-технический комплекс «Парадигма» (ПТК «Парадигма»).**
 
